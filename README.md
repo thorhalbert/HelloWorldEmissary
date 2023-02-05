@@ -4,3 +4,6 @@ Begin designing the Entity/Emissary template - this is more like a solution with
 
 There will be a series of yaml files which will describe the "solution", and this will contain some top level 
 administrative setup and a series of projects, each one is a emissary.
+
+## BouncySphere
+Hello world project.   Small sphere, when pressed on the top, it will jump up and change color.
