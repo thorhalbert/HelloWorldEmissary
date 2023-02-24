@@ -1,0 +1,4 @@
+DefaultPlatform: dotnet
+EntityProjects:
+    -   Name: BouncySphere
+        Directory: .
